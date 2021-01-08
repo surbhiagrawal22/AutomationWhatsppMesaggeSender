@@ -8,7 +8,10 @@ __pycache__/
 
 # environment varaibles
 *.txt
-
+*.env
+env_variable
+env_variable.txt
+ 
 # Distribution / packaging
 .Python
 build/
